@@ -18,7 +18,7 @@
 
 - [ ] create-react-app 혹은 vite으로 프로젝트를 생성합니다.
 - [ ] 아래 과제 공통 세팅의 폴더 구조를 확인합니다.
-- [ ] 과제를 제출하는 방법은 본인이 작업한 github repository 주소를 [issues]()에 올리면 됩니다.
+- [ ] 과제를 제출하는 방법은 본인이 작업한 github repository 주소를 [issues](https://github.com/summerdidi/wanted-pre-onboarding-frontend-challenge-19/issues)에 올리면 됩니다.
 - [ ] 과제물은 main 브랜치에 올립니다.
 - [ ] 프로젝트는 node version 20에서 실행할 수 있어야합니다.
 - [ ] Settings -> Codespaces -> Configuration Select branch를 main 으로 하고 제출합니다.(codespace 확인용도)
