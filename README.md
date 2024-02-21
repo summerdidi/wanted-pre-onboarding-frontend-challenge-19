@@ -27,6 +27,7 @@
 ## 안내사항
 과제 세팅에 맞춰 과제를 수행해주세요. 세팅값에 맞지 않는 프로젝트는 과제 확인이 불가능합니다. 과제 제출 전에 확인하고 제출 부탁드립니다.
 
+- [ ] 과제 제출 최상단에 개인 이력서 주소 첨부해주세요.
 - [ ] create-react-app 혹은 vite으로 프로젝트를 생성합니다.
 - [ ] 아래 과제 공통 세팅의 폴더 구조를 확인합니다.
 - [ ] 과제를 제출하는 방법은 본인이 작업한 github repository 주소를 [issues](https://github.com/summerdidi/wanted-pre-onboarding-frontend-challenge-19/issues)에 올리면 됩니다.
